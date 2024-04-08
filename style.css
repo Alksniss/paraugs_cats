@@ -1,3 +1,18 @@
 body{
     background-color: aqua;
 }
+.pamatlaukums{
+    background-color: rgb(40, 161, 121);
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(202, 0, 0);
+    padding: 10px;
+    margin: auto;
+}
+.cataZinas{
+    background-color: blue;
+    height: 430px;
+    padding: 10px;
+    overflow: scroll;
+    color: blueviolet;
+}
