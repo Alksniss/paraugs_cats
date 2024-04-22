@@ -5,5 +5,5 @@
 function sutitZinu()
 {
     console.log('sutitZinu()darbojas');
-    zinas.innerHTML = zinas.innerHTML+'<br>'zina.value;
+    zinas.innerHTML = zinas.innerHTML+'<br>'+ zina.value;
 }
